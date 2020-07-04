@@ -1,2 +1,4 @@
 # Coursera_Capstone
-Capstone project for IBM Data Science
+Peer Graded Assignment
+
+# This notebook is for capstone project only.
